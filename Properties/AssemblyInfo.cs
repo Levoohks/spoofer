@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 
 [assembly: AssemblyTitle("vitalcheats4u.com")]
-[assembly: AssemblyDescription("Public Spoofer [Source : Soon]")]
+[assembly: AssemblyDescription("Public Spoofer [Source : https://github.com/VITAL9999l/spoofer]")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("italcheats4u.com Spoofer")]
@@ -17,4 +17,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion("6.0")]
 
 
-///* Imagine not following me thats gay : https://github.com/VITAL9999l
+///* Imagine not following me thats gay : https://github.com/VITAL9999l/spoofer
