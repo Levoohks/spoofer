@@ -42,7 +42,7 @@ namespace vitalpaste4u
             Console.ForegroundColor = ConsoleColor.Cyan;  
             Console.WriteLine();
             String Header = "                ██████  ██       ██████   ██████  ██████      ██████   █████   ██████ ██    ██     \n               ██       ██      ██    ██ ██      ██          ██       ██   ██ ██       ██  ██    \n               ███████  ██      ██    ██ ██      ██          ███████  ███████ ███████   ████     \n               ██    ██ ██      ██    ██ ██      ██          ██    ██ ██   ██ ██    ██   ██      \n                ██████  ███████  ██████   ██████  ██████      ██████  ██   ██  ██████    ██           \n  ";
-            Console.Title = "[vitalcheats4u.com] Public Spoofer [Source : Soon]"; /// your skidded shit title here 
+            Console.Title = "[vitalcheats4u.com] Public Spoofer [Source : https://github.com/VITAL9999l/spoofer]"; /// your skidded shit title here 
             Console.WriteLine(Header);
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
